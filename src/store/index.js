@@ -1,5 +1,4 @@
 import { configureStore } from '@reduxjs/toolkit';
-import axios from 'axios';
 
 const initialState = {
   message: '',

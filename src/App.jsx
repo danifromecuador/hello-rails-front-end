@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { setMessage } from './store';
 import Message from './components/greet';
@@ -15,7 +15,7 @@ function App() {
       .catch((error) => {
         console.error('Error fetching data:', error);
       });
-  }, []);
+  }, [dispatch]);
 
   return (
     <div className="App">
