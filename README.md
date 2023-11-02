@@ -31,7 +31,7 @@
 
 **Hello Rails Back-End** is my first attempt to integrate backend and frontend using two separated projects, one for the backend and one for the frontend. The backend will provide an endpoint of a random greeting and the frontend will display it using React Redux for it.
 
-Link to the back end repository: [front-end](https://github.com/danifromecuador/hello-rails-backend/pull/1)
+Link to the back end repository: [back-end](https://github.com/danifromecuador/hello-rails-backend/pull/1)
 
 ## 🛠 Built With <a name="built-with"></a>
 
